@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cyber-Robin/react-inicio-RobinMayorga.git%20/static/css/main.5d1ee1d1.css",
+    "main.js": "/Cyber-Robin/react-inicio-RobinMayorga.git%20/static/js/main.bfe6f0ad.js",
+    "index.html": "/Cyber-Robin/react-inicio-RobinMayorga.git%20/index.html",
+    "main.5d1ee1d1.css.map": "/Cyber-Robin/react-inicio-RobinMayorga.git%20/static/css/main.5d1ee1d1.css.map",
+    "main.bfe6f0ad.js.map": "/Cyber-Robin/react-inicio-RobinMayorga.git%20/static/js/main.bfe6f0ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d1ee1d1.css",
+    "static/js/main.bfe6f0ad.js"
+  ]
+}
